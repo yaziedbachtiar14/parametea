@@ -1,0 +1,27 @@
+{
+  "name": "@yaziedbachtiar14/parametea",
+  "version": "1.0.0",
+  "description": "Hello tea.xyz",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaziedbachtiar14/parametea.git"
+  },
+  "keywords": [
+    "Tea",
+    "OSS",
+    "Project"
+  ],
+  "author": "yaziedbachtiar14",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaziedbachtiar14/parametea/issues"
+  },
+  "homepage": "https://github.com/yaziedbachtiar14/parametea#readme",
+  "dependencies": {
+    "parametea": "^1.0.0"
+  }
+}
